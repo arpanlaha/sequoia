@@ -1,7 +1,14 @@
 [package]
 name = "sequoia"
 version = "0.0.0"
-authors = ["Arpan Laha <arpanlaha99@gmail.com>"]
+authors = ["Arpan Laha"]
 edition = "2018"
+description = "An octree implementation"
+repository = "https://github.com/arpanlaha/sequoia"
+homepage = "https://github.com/arpanlaha/sequoia"
+license = "MIT"
+
+categories = ["data-structures"]
+keywords = ["data-structures", "tree", "octree"]
 
 [dependencies]
